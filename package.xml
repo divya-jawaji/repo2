@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>39.0</version>
+    <version>37.0</version>
     <types>
         <members>AppSwitcher</members>
         <members>Salesforce1</members>
@@ -28,6 +28,10 @@
     <types>
         <members>Internal Zone</members>
         <name>Community</name>
+    </types>
+    <types>
+        <members>snapchat_connected_app</members>
+        <name>ConnectedApp</name>
     </types>
     <types>
         <members>standard__AppLauncher</members>
