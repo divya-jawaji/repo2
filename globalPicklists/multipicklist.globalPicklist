@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalPicklist xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>df</description>
+    <globalPicklistValues>
+        <fullName>cxvx</fullName>
+        <default>false</default>
+    </globalPicklistValues>
+    <globalPicklistValues>
+        <fullName>schoolNGO</fullName>
+        <default>false</default>
+    </globalPicklistValues>
+    <masterLabel>multipicklist</masterLabel>
+    <sorted>false</sorted>
+</GlobalPicklist>

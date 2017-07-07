@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Student</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Students</value>
+    </caseValues>
+    <fields>
+        <label><!-- StudentAddress --></label>
+        <name>StudentCity__c</name>
+    </fields>
+    <fields>
+        <label><!-- StudentInfo --></label>
+        <name>StudentInfo__c</name>
+    </fields>
+    <fields>
+        <label><!-- StudentMobile --></label>
+        <name>StudentMobile__c</name>
+    </fields>
+    <layouts>
+        <layout>StudentLayOut2</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>StudentLayOut3</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- StudentRecord1 --></label>
+        <name>StudentRecord1</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- StudentRecord2 --></label>
+        <name>StudentRecord2</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
